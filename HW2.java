@@ -1,5 +1,5 @@
 public class HW2 {
-    public int factorial(int n) {
+    public static int factorial(int n) {
     //Given n of 1 or more, return the factorial of n, which is n * (n-1) * (n-2) ... 1. Compute the result recursively (without loops).
     //CODE GOES HERE
     }
